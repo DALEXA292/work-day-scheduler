@@ -16,8 +16,7 @@ JQuery
  
 # Website
 https://dalexa292.github.io/work-day-scheduler/
-https://github.com/DALEXA292/work-day-scheduler
- 
+
 # Contribution
 Alexa De La Cruz
 ![website screenshot](https://user-images.githubusercontent.com/104708575/203272124-2eb3adc5-ffd7-4291-a2c0-19f970bcc86c.PNG)
